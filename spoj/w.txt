@@ -1,0 +1,11 @@
+Case 1:
+10
+10
+Case 2:
+5
+Empty
+Case 3:
+Empty
+10
+100
+Empty
